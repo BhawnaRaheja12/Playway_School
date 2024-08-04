@@ -11,5 +11,6 @@ This project features a robust and intuitive data visualization dashboard create
 **Detailed School Information:** Lists the names of schools and respective head teachers, providing quick access to relevant details.
 
 **Interactive Visualizations:** Utilizes various charts and graphs to present data in a visually appealing and easily digestible manner, enabling stakeholders to make informed decisions swiftly.
+
 This dashboard is a valuable tool for decision-makers, allowing them to quickly understand the current state of infrastructure and facilities across the district's Playway Schools.
 
